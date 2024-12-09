@@ -17,3 +17,5 @@ _El sistema experto InjuryTracker está diseñado para identificar posibles lesi
 ## Enlace🔗
 YouTube:
 * https://youtu.be/keC2-Iu5ODo
+Prototipado:
+* https://www.figma.com/design/kryzysTSWCpdbd00mD6G4e/InjuryTracker?node-id=0-1&t=M2LdpVr9B4QxSdbf-1&authuser=0 
